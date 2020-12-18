@@ -3,4 +3,4 @@
 This repository contains my own implementations to complete the Android codelabs.
 I strongly recommend you to give them a try!
 
-Android Fundamentals https://developer.android.com/courses/fundamentals-training
+Android Advanced in Kotlin: https://developer.android.com/courses/kotlin-android-advanced/overview
